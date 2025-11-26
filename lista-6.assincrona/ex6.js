@@ -11,10 +11,11 @@ for(let aluno = 0; aluno<qtdAlunos; aluno++){
     }
     let media = somaNotas/3;
     if(media>= 7 ){
-        console.log("Alunon - ", (aluno + 1), "Media = ", media, "## APROVADO ##");
+        console.log("Aluno - ", (aluno + 1), "Media = ", media, "## APROVADO ##");
    } else{
-     console.log("Alunon - ", (aluno + 1), "Media = ", media, "## REPROVADO ##");
+     console.log("Aluno - ", (aluno + 1), "Media = ", media, "## REPROVADO ##");
  }
 
 }
+
 
