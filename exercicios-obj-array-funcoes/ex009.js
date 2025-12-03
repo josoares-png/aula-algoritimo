@@ -65,3 +65,4 @@ if (validarAcesso("1234", "56789-0", "4321")) {
 } else {
     console.log("Acesso negado!");
 }
+
